@@ -1,4 +1,4 @@
-# Data Wrangling with the Python library **Pandas** in Jupyter Lab
+# Data Wrangling with **Pandas** in Jupyter Lab
 - - -
 ## Purchasing Dataset for Recently launched Mobile Game App
 
